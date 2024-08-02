@@ -1,5 +1,5 @@
 
-# Empolyee Database
+# Employee Database
 ## Description
 A database to add employees, roles, and departments.
 ## Installation
